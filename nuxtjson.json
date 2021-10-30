@@ -1,6 +1,15 @@
-[
+{
   
- Person: {
-    name: 'ihar'
-  }
+ "Products": [
+   {
+     "id": "1",
+    "name": "ihar",
+     
+   },
+   "varian": [
+   "price": "21",
+   
+   
+   }
   ]
+}
